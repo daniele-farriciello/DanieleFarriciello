@@ -9,7 +9,7 @@
 - 📫 How to reach me **daniele.farriciello.03@gmail.com**
 
 <h3 align="left">Connect with me:  
-<a href="https://linkedin.com/in/daniele farriciello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele farriciello" height="30" width="40" /></a>
+<a href="https://ie.linkedin.com/in/daniele-farriciello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele farriciello" height="30" width="40" /></a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
