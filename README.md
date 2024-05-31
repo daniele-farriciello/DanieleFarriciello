@@ -8,7 +8,7 @@
   
 - 💻 Portfolio: https://danielefarriciello.dev/
 
-- 📚 **BSc (Honours) Software Development Computer Science ~ MTU** 
+- 📚 **BSc (Honours) Software Development ~ MTU** 
 
 <h3 align="left">Connect with me:  
 <a href="https://ie.linkedin.com/in/daniele-farriciello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele farriciello" height="30" width="40" /></a>
